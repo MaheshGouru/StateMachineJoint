@@ -13,6 +13,10 @@
       "ReachCheck": {
         "src": "src/plugins/ReachCheck",
         "test": "test/plugins/ReachCheck"
+      },
+      "Classification": {
+        "src": "src/plugins/Classification",
+        "test": "test/plugins/Classification"
       }
     },
     "seeds": {
